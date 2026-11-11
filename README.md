@@ -6,6 +6,7 @@ I build web applications with **React, TypeScript, Python and FastAPI** and conn
 
 - 🎓 Qualified application developer (IHK, January 2026); internship at HITeC, the technology transfer center of the Department of Informatics at the University of Hamburg
 - 🤖 Building AI web apps and workflow automation (Claude API, Groq, n8n)
+- ✨ Creative coding: hand- and voice-controlled 3D in the browser ([Aether](https://github.com/elmarAbdullayev/aether))
 - 🏢 Volunteer Microsoft 365 developer: SharePoint Online intranet as code (PowerShell/PnP, SPFx)
 - 🔎 Open to junior full-stack, frontend or backend roles – Hamburg or remote
 
@@ -13,6 +14,7 @@ I build web applications with **React, TypeScript, Python and FastAPI** and conn
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Aether](https://github.com/elmarAbdullayev/aether) | Shape light with your hands and voice: 20,000 particles follow webcam hand tracking in four interactive worlds, fully in the browser · [live demo](https://aether-seven-gules.vercel.app) | React, TypeScript, Three.js, MediaPipe, Web Audio API |
 | [Job Application Automation](https://github.com/elmarAbdullayev/bewerbung-automatisierung) | Application workflow from a React form to an AI summary as PDF by email · [demo video](https://www.loom.com/share/80a6dece5d344ecab8f9484071cac869) | n8n, React, TypeScript, PostgreSQL, Groq, Docker |
 | [CVisionAI](https://github.com/elmarAbdullayev/CVisionAI) | Compares a CV (PDF) with a job description: match score, missing skills, cover letter | React, TypeScript, FastAPI, Groq LLM |
 | [Benchmark System](https://github.com/elmarAbdullayev/benchmark-backend) | Load tests Uvicorn vs. Gunicorn (sync/async) with metrics and dashboards – built during my internship at HITeC | FastAPI, React, MySQL, Streamlit |
@@ -22,11 +24,11 @@ I build web applications with **React, TypeScript, Python and FastAPI** and conn
 
 ### Tech stack
 
-**Frontend:** React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS · Redux · Vite  
+**Frontend:** React · TypeScript · JavaScript · HTML/CSS · Tailwind CSS · Redux · Vite · Three.js / WebGL  
 **Backend:** Python · FastAPI · SQLAlchemy · REST APIs · JWT · Java/Spring Boot  
-**AI & automation:** Claude API · Groq · LLM integration · n8n · Webhooks  
+**AI & automation:** Claude API · Groq · LLM integration · MediaPipe hand tracking · n8n · Webhooks  
 **Databases:** PostgreSQL · MySQL · SQLite  
-**Tools:** Git · Docker · Linux · pytest · Microsoft 365 · SharePoint · PowerShell
+**Tools:** Git · Docker · Linux · pytest · Vitest · Microsoft 365 · SharePoint · PowerShell
 
 ### Contact
 
